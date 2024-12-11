@@ -1,7 +1,11 @@
 # steam-ban-them
 
-    $ npm install
+    1. git clone git@github.com:d8texe/steam-blacklist.git
 
-    Edit blacklist.json
+    2. cd steam-blacklist
 
-    $ npm start    
+    3. Edit blacklist.json
+
+    4. $ npm install
+
+    5. $ npm start    
